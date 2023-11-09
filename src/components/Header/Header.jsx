@@ -21,7 +21,7 @@ const Header = () => {
                         {Links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">Career Hub</a>
+                <a className="btn btn-ghost normal-case text-xl">CareerHub</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -29,7 +29,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Apply now</a>
+                <a className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white normal-case text-xl font-bold">Apply now</a>
             </div>
         </div>
     );
